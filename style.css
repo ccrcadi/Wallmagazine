@@ -1,0 +1,89 @@
+.main{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: black;
+    height:100vh;
+}
+.welcome{
+    color:white;
+    z-index: 2;
+    text-shadow: 0 0 20px #000;
+} 
+
+.parent{
+    display:flex;
+    flex-direction: column;
+    align-content: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+}
+.big{
+    font-size: 50px;
+
+}
+
+
+
+.card {
+    /* Create the glassy appearance */
+    background-color: rgba(36, 36, 36, 0.315) !important; /* More transparent white */
+    border-radius: 10px !important; /* Soften edges */
+    box-shadow: 0px 4px 10px rgb(0, 0, 0) !important; /* Subtle shadow */
+    backdrop-filter: blur(7px) !important; /* Blur the background slightly */
+  }
+.cards{
+    display: flex;
+    align-items: center;
+    z-index: 2;
+}
+#background{
+    position: fixed;
+    top:0px;
+    left:0px;
+    z-index: 1;
+}
+#background img{
+    height: 900px;
+}
+#background img:nth-child(2){
+    height:400px;
+    position: fixed;
+    top:0px;
+    right:0px;
+    animation: bird 3s ease infinite;
+}
+@keyframes bird {
+    0%{
+        transform: rotate(0deg);
+    }
+    50%{
+        transform: rotate(3deg);
+    }
+    100%{
+        transform:rotate(0deg);
+    }
+}
+@media screen and (max-width: 500px) {
+    
+    .main{
+        display:grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr 1fr;
+    }
+    .parent{
+        align-items: center;
+    }
+    .big{
+        font-size: 35px;
+    }
+    .cards{
+        display: block;
+    }
+    #background img:nth-child(2){
+        height:200px;
+        position: fixed;
+        top:30%;
+        left:0px;
+    }
+}
