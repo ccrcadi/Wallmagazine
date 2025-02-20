@@ -204,22 +204,46 @@ What's left is all we'll ever know..
     cadetNo: 2357
 },
 {
-    title: "Unfolds and Silence",
+    title: "The weight we carry",
     story: `
-    Clouded by the moon's beauty, on the fierce Sun
-    Yet, I talk about the darkness beyond the star.
-    Looking at the twinkles crowded in the sky,
-    But, unseen remains the black curtain, that is far.
-    
-    All they see in the green fields we have now,
-    But I dare to speak of the barren land it was before.
-    All rhymes 'bout the sweet dreams about future they hold,
-    But I still think of the nightmares we never wished for.
-    
-            Melodies melt to nothingness,as-
-            I sing of the untold as his bard,
-           Voice that left no trace in the land;
-             I talk wish silence as my word.   `,
+    Life whispers softly, yet its grip is steel,
+ A tapestry of triumphs and wounds left to heal
+
+ Life whispers softly, yet its grip is steel,
+A tapestry of triumphs and wounds left to heal
+ Each step we take, a dance through pain
+ With skies of sunshine and storms of rain.
+
+The struggles rise like mountains steep,
+ In the quiet hours, they make us weep. 
+A dream deferred, a heart betrayed, 
+The price we pay for paths life laid.
+
+But oh, the beauty in the fight,
+The dawn that follows the longest night. 
+In every tear, a seed is sown,
+From shattered pieces, we've always grown.
+
+The child who stumbles, learns to stand, 
+The broken heart finds strength unplanned.
+ The hands that trembled with steady still, 
+The quiet soul that bends life to will.
+
+For pain is a sculptor, chipping away, 
+Revealing the masterpiece in the clay.
+Through fire and pressure, we take our form,
+ Emerging a new from each passing storm.
+
+So wear your scars like a crown of gold,
+ Each line a story, each wrinkle bold. 
+The struggles are lessons, the pain a guide, 
+To uncharted depths where our truths reside.
+
+Though life is heavy, it's also divine, 
+A symphony flawed, yet it is utterly fine. 
+We are both the burden and the flight, 
+The darkest shadows, the brightest lights.
+   `,
     writer: "Cadet Ahnaf",
     cadetNo: 2251
 },
