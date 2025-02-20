@@ -101,7 +101,7 @@ What's left is all we'll ever know..
     cadetNo: 2257
 },
 {
-    title: "Personality Review : Muhammad Ali",
+    title: "Personality Review ",
     story: `
     Full Name: Khalid Ibn Al-Walid Ibn Al-Mughira Al-Makhzumi
     Nick Name: Abu Sulayman
