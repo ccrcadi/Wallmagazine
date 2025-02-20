@@ -248,29 +248,29 @@ The darkest shadows, the brightest lights.
     cadetNo: 2251
 },
 {
-    title: "Spring Rhapsodies",
+    title: "Timeless reminiscence",
     story: `
-    Thought I heard the cuckoo sing,
-    Such a lovely tone!
-    Is it singing to another?
-    Or is it alone? It must be a lovely day    
-    Is it sunny, or cold? Is the sky all grey? 
-    I took my stick,a lovely company,
-    Showing the way in joy and agony.
-        
-    As the breeze touched me,
-    My heart's got new feelings to bring. 
-    Sweeping away the touch winter. 
-    Are you there? Spring? 
-    I wonder how red the rose is,
-    Is it crimson or not so bright.
-    I imagine how the sky looks 
-    In a starry night
-    
-    Beauty demands the eyes, you say? 
-    That's not how it's ever been.
-    Cause what I see among the dark; 
-    Will remain forever unseen.
+    Time passes
+     And so expires your lifetime
+But one thing that always exists
+     That is the memories you leave behind
+Some haunting your mind
+    Some reminding your good old days
+When friends and family were by your side
+    Helping you to find happiness & enlight all your ways
+Some make you feel sad
+    Which reminds you how tough was life
+Again some inspire you
+   To rise up again, once you fall behind
+These memories are your treasures, never ending
+   Which remind you of your glorious life
+ Which you couldn't figure out while it was happening 
+   But when yo do, it's too late to realize
+And now when you're on the verge of death
+   They flash in front of your eyes
+When you can not do anything but regret 
+   For wasting your precious times
+
     `,
     writer: "Cadet Riad",
     cadetNo: 2244
