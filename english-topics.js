@@ -2,16 +2,19 @@ const topics = [{
     title: "The God Particle",
     story: `
     The Higgs Boson is one of the most important unanswered mysteries in the realm of physics. Theoretically, it is said to be a fundamental particle in the Standard Model of Particle Physics, but deep down, it has some extraordinary characteristics, which might play a vital role in unraveling several unknown secrets of physics, particularly particle physics. The first research regarding the Higgs Boson had been conducted at CERN in the 1960s. From then, several experiments were carried out by scientists and organisations. all over the world. Finally, after 40 years of extensive research, in 2012, from several experiments carried out by the CMS and ATLAS at the Large Hadron Collider (LHC) at CERN near Geneva, Switzerland, a sub atomic particle with the expected properties similar to Higgs Boson was discovered. For this discovery, in 2013, physicists Peter Higgs and Francois Englert were awarded the Nobel prize in physics. Now lets look into the characteristics and properties of the Higgs Boson. Its mass has been measured 125 giga electron volts approximately, which is similar to the predictions of the Standard Model. Now another question arises that, what is the standard Model? In physics, the Standard Model is a widely accepted frame work ,based on quantum field theory, that predicts almost all known particles and forces aside from gravity with great accuracy. In the Standard Model, the Higgs particle is actually a massive scalar boson. Its special characteristics include:
+
 •Zero Spin
 •Even parity (positive) 
 •No electric charge
 •No colour charge
+
 Another mentionable property includes that the Higgs Boson is a very unstable particle, which decays very quickly into various particles like pairs of photons, W and Z bosons, fermions etc. In the PRL papers written in 1964, Peter Higgs also mentioned in the closing sentence that, "An essential feature is the prediction of incomplete multiplets of scalar and vector bosons". Before these discoveries, in the 1980s, there arose a question among the then physicists about the existence of a field named the Higgs field, on which the Standard Model was based on. So, during that time, this issue about the existence of the Higgs field become the last unverified part of the standard Model, which was considered as "The central problem in particle physics" for several decades. After decades of extensive research, the scientists gave several key predictions, among which, one was that a matching particle, called the "Higgs Boson" should also exist, whose existence would have also proved the existence of the Higgs field was theorised as a scalar field with two neutral and two electrically charged components, having a Sombrero potential unlike any other fields. The significance of the discovery of the Higgs Boson is immense. It includes: 
 
 •Cosmic Inflation
 •Authenticity of the Standard Model
 •Proof of the scalar fields like Higgs field 
 •Symmetry breaking.
+
 Although still theoretical, the discovery of the, Higgs Boson is a milestone in the realm of particle physics. Through this discovery, a way has been paved for the scientists to explore more about the funda mental structure of the universe and answer that un solved mysteries of physics. Following this discovery, through further extensive search and experiments, many new theories and discoveries will be ab- le to present a more comprehensible and advanced explanation regarding several matters of physics and cosmology to mankind.
 
     
@@ -60,7 +63,9 @@ Choosing something out of their bid?
     title: "The Stubborn Pawn",
     story: `
     The black and white pieces were glimmering in the spotlight. Though the setup of the board was clear as day, it was still shrouded in a mist of mystery. Afterall Chess was something new to Digonto. So, his perplexity at the sight of this obscure game as a birthday present wasn't quite inexplicable Digonto Faced his father and immediately spat up, "What is this, Dad ? Reza Ahmed, Digonto's father who bought him the chessboard for his 8th birthday, replied, This is a chessboard. You can play this game with your friends. and even with me sometimes !" As a keen learner, Digonto was eager to play new games He immediately learned the rules of the game from his father.
+
 Day after day, Digonto played chess with his friends. The aspect about the game that intrigued him most was its characters. All pieces on the board served to protect the king. The queen, arguably the strongest. Travels throughout the board and causes havoc. The Dishop and rook bore contrasting traits; with one moving diagonally and the later one travelling sidew- ays. The Knight was capable of jumping over other pieces on the board. But the pieces that bored him the most were the pawns. He simply could not fathom the necessity of this rather useless piece.
+
 Once Digonto grew confident in chess, he would Challenge his father to matches. In the first few matches, he would see that his father would give away his pawn at vulnerable positions. Seizing the opportunity, he would strike the pawns out with glee. However, after a few moves, he would always be entrapped within a cleverly orchestrated setup of his father. His father would go on about the same topic every match, "You must know how to use the pawns cleverly. They're not meant to fight for themselves, sometimes you have to sacrifice them in order to win the game. But, as the game would progress, Reza would always have a smirk on his face, as he added, but never make the mistake of underestimating a pawn. Even pawns can go great ways. “You never know when a pawn might suddenly become so powerful that it might crush all you ever hoped for,” he said just as he'd slide a pawn to the last square and transform it into a queen.
 
 As years passed by Digonto grew more mature. When he was about years old . he noticed that something was off with his father. He would spend late nights on the phone with his colleagues. Sometimes his bosses would call and he’d listen with a look of worry. Reza Ahmed worked as supply chain manager at Hots Eats restaurant. As the days went on Digonto would hardly find him home. He wondered how the restaurant business kept his father so busy. He was feeling suspicious about all this. In the midst of this mysterious saga, a phone call from a phone call from a stranger changed Digonto's life forever. His father was severely injured in a road accident! He immediately rushed to the hospital where Reza was taken, but just before he reached the room, his father breathed his last. At his funeral, Digonto felt traumatized. He'd lost his mother at a very young age, and now his father too.He couldn't- Just accept this reality. As he stood there in silence, a stranger approached him Digonte looked up and saw that the stranger had a piece of paper in his hand. The title written on that piece, in bold letters, read “HOT EATS OWNERS ACCUSED OF MONEY LAUNDERING,’ Handing him the piece, the stranger went away without saying another word. Though it took some time, everything became dear to Digonto. Now his father held a managerial position at Hot Eats. The owners must have used him to carry on their shady business. Reza Ahmed got a sniff of the dealings recently and, being an honest man, reported it to the police. His father didn't die in an accident, he was killed by the owners goons! And that stranger...he must have been a colleague of his father. Digonto understood everything now. The owners didn't have to think twice before killing off their powers. Digonto himself was a pawn in this game, with this life mercilessly shattered But he was not one to stay still. He had a new aim in mind, to avenge his father's death, and to do that, he'd go whatever lengths necessary.
@@ -114,14 +119,17 @@ What's left is all we'll ever know..
     Allegiance :Quraysh (625-627/629) 
                 Muhammad (627/629-632) 
                 Rashidon Caliphate (632-638)
+
 Years of Service: 629-638
 Title : Sayf Allah (Sword of Allah)
+
 Commands :Field Commander in Najd and the Yaman Supreme Commander of Muslim armies in Syria
           Field Commander in norther Syria Military Governer of Qinnaspin
           The earth destroys its fools, but the intelligent destroys the
 
 Quotes:The earth destroys its fools, but the intelligent destroys the Earth.
        When I am in battle field, I love it more than my wedding night.  
+
 Khalid Bin Walid was a 7th century Arab military commander. He belonged to the Bano-Makhzum, a leading clan of the Quraysh tribe and Mecca's pre-Isla mic aristocracy. He initially led campaigns against Muhammad (SM) on behalf of the Quraysh. He later became a Muslim & spent the remainder of his career serving Muhammad(SM) & the first two Rashid un Caliphs Abu Bakr (Ra) and Umar Faruque(Ra). Khalid played leading command roles in the Ridda War against rébel tribes in Arabia in 632 GE-633C-Eth the initial campaigns in Sasanian Iraq in 633 CE-634 CE and the conquest of Byzantine Syria in 634 CE 638 CE. The historian Carole calls him "The most famous of all Arab Muslim generals, "Being the most successful general of the world in tactics & war strategies, Khald Bin Walid's name is embedded in the golden history of the world. This legendary general is still honoured by the great generals of this era. The legend of this formidable warrior of Islam still burns bright to enlighten us
    
     `,
@@ -148,14 +156,18 @@ Khalid Bin Walid was a 7th century Arab military commander. He belonged to the B
     title: "Shaky Candle Flame",
     story: `
     Cherry blossoms falling, dancing in the gentle breeze just to cover the grave beside the tree full of love. Slowly the footsteps reached there below the the ree…………..
+
 12 years ago:
 On a dark night, there was no source of light except the sole candle burning on the table. The candle flames are fighting with the stormy wind coming from the broken window. Thud-Thud-Thud. Astrid looked through the window behind with shock and a feeling of uncertainty in her eyes as a lightning nearby striked. There are only two things giving her company. The diary where she expresses her true self, she continued to write.
 
 4 Sept,1939
 I still remember the day vividly like it was yesterday. I always liked hiking and camping. But all the management and hardworks were vested upon Steve's shoulders. That winter we both went skiing. After a whole day of adventure, we  made our tents in the jungle near the hill. Distant howls came to my ears as I was warming my handing holding towards the campfire Steve made. I got lost in my thoughts. It was on a summer vacation, I was playing in the park where I found a kid crying and getting bullied, I wanted to save him but hesitated because I was just a kid like him. After the bullies left, I sat by him and wiped of his tears asking, "What's your name?" Steve Wayne, he replied with a shaky voice. That was our first conversation. Years passed and now who are here. I got my senses as steve put the woods on the ground which he collected to keep the campfire alive. We bought some packed food which we warmed using the campfire.
+
 The black flames covered the place as the fire got a bucket-full water on it. I was sitting idle when in he got something to show me.I walked behind him throughout the trail reached at an open place. I saw a tree, it was glowing under the full moon with the snow stacked on top. I was amazed by the beauty and looked around carelessly when his voice broke my thoughts, "I wanted to say this earlier. But....just so you know Astrid Hoffer- son... "I love you and I will till the day I die. Will you complete the missing half of me?" I stood there stunned and a sudden burst of joy brought tears in my eyes. He was on a knee while holding a ring. He took my hand and put the ring in finger of mine. I was so happy that I could die with the joy overflowing inside me.
 Oh Steve! I miss you so much. The war can't separate our bond. Our love is divine. The love between us is growing inside me. Please, come back!
+
 The teardrops fell on the page of the diary. The shaky candle flames are still fighting with the stormy winds just like Astrid fighting with cancer at her death bed.
+
 Present Time:
 Cherry blossoms dancing in the gentle breeze to cover the grave. Slowly the footsteps reached there. A man at his forty years age, was holding a rose in his right hand and held another tiny hand in his left one. The kid asked, "Dad, what is mom doing there ?" Steve smiled and picked her up in his arms, "She is waiting for us Ana."
 "One day we have to join her and then we all will be together!"   
@@ -169,8 +181,10 @@ Cherry blossoms dancing in the gentle breeze to cover the grave. Slowly the foot
     The Spiritual 36 July
 
 The 36th July, a date that had never been seen in the world's calendar but would forever be etched in the hearts of every Bangladeshi. On this day a battle was fought not with weapons, but with the power of unity hope and a unshakable will to rise above adversity
+
 The spiritual 36th July, it is not only a name, rather truly an event engaged with souls and spirits. Many Souls have been sacrificed for this victory. To really get the spiritual influence of Bengalis over this day, the story of martyrs is a must. Mir Mugdho was one of those martyrs.
 The date was 18 July 2024. Mugdho, influenced by the flames of protest burning inside him like others, participated in the movement. Brave enough, he advanced for helping his fellow comrades with biscuits and water. He shouted amidst the crowd, "Water, water. Does anyone need water ?" Just like the street hawker he went on as a hawker of humanity. He contributed to the protest not by showing violence but by the act of kindness, Innocent yet guilty to the tyrants he was shot on the forehead while crossing a road barricade in Uttara. His friend Naimur Rahman Ashiq was by his side when he got martyred. Later, his friend told in an interview that Mugdho completed graduation in Mathematics from Khulna University. He was studying M.B.A in BUP and preparing for IELTS. Mugdho wanted to go abroad for higher studies. His friend told that Mugdho was a life full of promises cut short. Actually, Mugdho isn't a life cut short but a life that will be prolonged for centuries. He will live in the spirits of Bengalis as an idol.
+
 Not only martyr Mugdho but the spirit of thousand martyrs ignited the second independence of Bangladesh on 36th July. The story of 36th July is a symbol of Bangladesh's indomitable spirit, echoing the country's legacy of resilience and collective action in the face of injustice. Twinning with the date 21 February of 1952 the 36th July of 2024 held a high position in the history of our nation.
 
      `,
