@@ -15,33 +15,38 @@ const topics = [{
     cadetNo: 2233
 },
 {
-    title: "The Flickering Candles",
+    title: "Meant to suffer",
     story: `
-    In this kingdom of wax, a lonely night,
-    Stand a thousand candles, waiting to ignite.
-    A flick of ember is all it takes
-    To enlighten the world and make it awake.
-    But, the ember, it's something divine. 
-    Blessing only few, to make them shine.
-    
-    
-    On a sudden a blaze went past, 
-    The chosen ones lightened, all in a haste
-    Murky at places and some steep as a hill.
-    Yet, Illuminating the town, they stood still.
-    
-    
-    But whilst the of light is felt 
-    The chosen one begins to melt. 
-    Staying on firm in its fight,
-    It gets engulfed in eternal plight.
-    The candle now burnt to its wick 
-    Is now gone, with the future bleak:
-    
-    
-    In this kingdom of wax, a lonely night.
-    The ignorant candle stand upright:
-    While the chosen ones face their demise
+    Are some people meant to suffer?
+ Living out like a loser
+Can’t they rise again?
+ To bargain
+What was taken away from them
+
+They were the dreamers
+Dreaming like a new comer 
+With hundreds of possibilities, 
+Dreamt a new kid
+ But seeing the truth of life 
+He closed his eyelids.
+
+Those eyelids never opened again 
+Because life didn't give him
+ What he chose to gain
+They said they accepted beauty
+But never accepted dreams of every nature
+Although they say,
+Beauty lies in the eyes of the beholder.
+
+Alas! they didn't have eyes
+For which they had to hide the kid
+Under their lies.
+
+They didn't have eyes
+That's why they didn't have to close their eyelids 
+But, was it the fault of the new kid?
+Choosing something out of their bid?
+
      `,
     writer: "Cadet Ahmad",
     cadetNo: 2221
@@ -64,43 +69,29 @@ const topics = [{
     cadetNo: 2344
 },
 {
-    title: "To,The Lady of Silver",
+    title: "Remaining echoes",
     story: `
-    O Lady of the Silver,
+    We part with echoes of old laughter, 
+Of moments etched, now fading after.
+The roads once worn by feet we knew,
+ Now silent paths, their colors few.
 
-    Did you hear? It's her right there! The rueful song, melancholy, by the stream It's her! Or was it? Just a gentle breeze and my wistful dream?
-    
-    O Lady of the Silver. Did you know? When I met her, Long, long ago. Under the night's sky, As she stood bside the sea. So precious, ethereal she had looked! That, as if frightened. I let her be
-    
-    I wished I could speak to her. To the goddess who stood before me!
-    
-    But I knew how unworthy were by words
-    
-    So silent, I just let her be.
-    
-    Then, she was gone... Yet.unspoken.yet unknown.
-    
-    O Lady of the Silver. Do you know? Her abode? Where she stays? Would you take my love to her?"
-    
-    I await your answer.
-    
-    For hours, for days.
+The treasures held in hands once warm, 
+Slip through like mist before a storm.
+We leave behind the dreams we spun, 
+Now scattered light beneath the sun.
+Yet still, within the heart they stay, 
+The ghosts of love that slip away. 
+Though time may steal, and distance grow, 
+What's left is all we'll ever know..
         `,
     writer: "Cadet Mozaienul",
     cadetNo: 2239
 },
 {
-    title: "Kintsugi : The Art of Life",
+    title: "Sunshine’s Peak",
     story: `
-    Rafi rushed towards his room os Neela tried to get the football in his hand which he won in the divisional football match. Safia chased him crying, "Rafi, let me see it. "Rafi mocked her while shutting the door. "Come and get it." Neela somehow managed her way through and got a grip on the ball Suddenly the ball slipped from Neela's hands and hit Rafi's something Both of them remained from as they watched favourite vase falling and seconds later there was only the echos of pieces of the pot jumping on the eflective floor of tiles. The atmosphere suddenl y took the shape of uncertainity. Joyful mood go dipped into sadness. Rafi looking at the grond told Neela coldly-"leave...."-still in shock, Safia with shivery lips left the room.
-
-    A week later, the sound of telephone ringing caught. Neela's ears which left a feeling that says It is Rafi She without even wasting a second rushed towards the drawing room and answered it with the first line which says. "I'm sorry Rafi, I didn't mean to she said more or less expecting to hear"It's okay, "cause that was the Rafi she knew But the voice on the other side said."Neela-I lost my leg."
-    
-    At the hospital Neela burst into tears and Rafi calmed her down. For the next six months Rafi got rehab and prosthetic leg training for better mobility For this whole time Safia stayed by his side motivating him and taking good care of him She was happy about the fact that Rafi' was recovering well but at the same time she felt sad for him. Because he had a dream to join the national football team. Though his dream broke along with his leg-it never got lost.
-    
-    Seven years later Neela got invited to Rafi's house along with his friends and relatives for a party. After the cake cutting ceremony and formalities Rafi and Neela went to the terrace and sat by the edge resting their legs in the air Neela spoke first, "Congratulations Rafi forgetting selected in the National team." Rafi nodded, Thanks-It was never possible without you though."Rafi will be playing for the under 20 National Amputee football team. He got Neela's hand and pulled her over saying, "Let me show you something downstairs. "Neela followed Rafi and went to his room. Rafi pointed at something and asked, "Remember it ?"To Neela's surprise she saw the same vase which broke 7 years ago and it made her feel sad and interested at the same time.
-    
-    There was something intriguing about the vas  e The cracks, instead of being glued together seemed to have been covered with a layer of gold. Out of curiosity she asked, "Why has the pot been fixed in such a way? It seems like th e cracks are being highlighted."Rafi replied. "It's the japanese art of Kintsugi where the pieces of molten gold are attached with the pot to adorn them."Neela looked at Rafi and noticed his prosthetic leg. "Cracks? Asin flaws ?"she thought. To the surprise of Rafi,she chuckled for a moment and said, "You're right Rafi. The vase is shining and beautiful Just like you.
+    While the others were still holding their stand with all their willpower against organic chemistry in the night prep before chemistry exam, I had already given up and started doodling. It suddenly came to me that I needed a change of pace in the typical schedule and the first thing coming to my mind was a tour. As I announced it to the class hoping to find some companions, a lot of hands were raised but most with conditions like getting A+ or without failing in the exam. So, on the first day of winter vacation, it was just the 4 of us heading towards the bus stand for Parchagarh. The main thrill was that we didn't know anything about the place, had no relatives, were not sure where to stay and with whatever amount of cash we could manage which combinedly was almost negligible for a tour. But that wasn’t enough to stop us, and like that we took a bus and had reached the ‘Zero Point’ by 3 o’clock. There a local van driver offered to show us around the area and one by one we visited the tea gardens, border areas and the areas around Banglabandha. By this time, we had already enjoyed to the fullest and dicked more pictures than we should have. As the sky got darker, the tension of where to spend the night had started to build up but the van driver relived us by suggesting house guest system and took us to one of his known houses. While we all agreed it was risky to stay in someone's house without knowing them but the thrill of it got the better of us. Later, we realized that it saved us a lot of hassle. Though finding a place for us to stay at night relived us, our adventurous minds weren't ready to sit idle. So, at night we got out to explore the night city. As the excitement of adventure was still on, the simplest of the things felt extraordinary, with the cold freezing our bones and ice-cream giving us brain freeze. As the night grew colder we started to feel hungry and that was the moment we realized that except some tea, chips and ice cream we hadn't eaten anything since morning. And so we took porota with some vegetable and lentil. The food tasted phenomenal; just as they said, "Hunger is the best sauce." Eventually after much adventure we finally went to sleep in our rented house, even though it couldn't be called sleep because the risk of not being able to wake up at time the next morning haunted us the whole night. However, by the time we got ready the next morning, it was still dark. We started towards Bangalow, a prominent spot for watching Kanchanjanga. We reached the spot about 20 minutes prior to sunrise. As we shivered in cold, one of us bought 4 ice creams and with a prideful look an his face he said, "Set a thief, to catch a thief" and after processing for a second, we all burst out in laughter. Right beside us, there was a woman gathering dry leaves to light fire so we joined her as it was cold. Our plan to escape from cold using cold (ice-cream) ironically went in vain and we had to drink tea to clear the brain freeze. Eventually, as the fog started to fade, everything became visible. With a tea cup in hand and the Shiliguri bridge at our right, we finally saw the snowy white peak of Kanchanjanga peaking at us from 160 km away. In the early light, the second highest peak of the world glowed like a dazzling crystal. It was difficult to leave behind the hypnotysing beauty but the urge to go home was dominating So by 9am we were on our way home from Panchagarh with a whole new enthusiasm for adventure and a great story to tell.
         `,
     writer: "Cadet Sadat",
     cadetNo: 2257
