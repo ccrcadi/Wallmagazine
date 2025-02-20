@@ -53,8 +53,8 @@ But, was it the fault of the new kid?
 Choosing something out of their bid?
 
      `,
-    writer: "Cadet Ahmad",
-    cadetNo: 2221
+    writer: "Cadet Nahiyan",
+    cadetNo: 2233
 },
 {
     title: "The Stubborn Pawn",
@@ -69,8 +69,8 @@ As years passed by Digonto grew more mature. When he was about years old . he no
 
 
       `,
-    writer: "Cadet Fatemi",
-    cadetNo: 2344
+    writer: "Cadet Ahmad",
+    cadetNo: 2221
 },
 {
     title: "Remaining echoes",
@@ -89,16 +89,16 @@ The ghosts of love that slip away.
 Though time may steal, and distance grow, 
 What's left is all we'll ever know..
         `,
-    writer: "Cadet Mozaienul",
-    cadetNo: 2239
+    writer: "Cadet Shoudho",
+    cadetNo: 2401
 },
 {
     title: "Sunshine’s Peak",
     story: `
     While the others were still holding their stand with all their willpower against organic chemistry in the night prep before chemistry exam, I had already given up and started doodling. It suddenly came to me that I needed a change of pace in the typical schedule and the first thing coming to my mind was a tour. As I announced it to the class hoping to find some companions, a lot of hands were raised but most with conditions like getting A+ or without failing in the exam. So, on the first day of winter vacation, it was just the 4 of us heading towards the bus stand for Parchagarh. The main thrill was that we didn't know anything about the place, had no relatives, were not sure where to stay and with whatever amount of cash we could manage which combinedly was almost negligible for a tour. But that wasn’t enough to stop us, and like that we took a bus and had reached the ‘Zero Point’ by 3 o’clock. There a local van driver offered to show us around the area and one by one we visited the tea gardens, border areas and the areas around Banglabandha. By this time, we had already enjoyed to the fullest and dicked more pictures than we should have. As the sky got darker, the tension of where to spend the night had started to build up but the van driver relived us by suggesting house guest system and took us to one of his known houses. While we all agreed it was risky to stay in someone's house without knowing them but the thrill of it got the better of us. Later, we realized that it saved us a lot of hassle. Though finding a place for us to stay at night relived us, our adventurous minds weren't ready to sit idle. So, at night we got out to explore the night city. As the excitement of adventure was still on, the simplest of the things felt extraordinary, with the cold freezing our bones and ice-cream giving us brain freeze. As the night grew colder we started to feel hungry and that was the moment we realized that except some tea, chips and ice cream we hadn't eaten anything since morning. And so we took porota with some vegetable and lentil. The food tasted phenomenal; just as they said, "Hunger is the best sauce." Eventually after much adventure we finally went to sleep in our rented house, even though it couldn't be called sleep because the risk of not being able to wake up at time the next morning haunted us the whole night. However, by the time we got ready the next morning, it was still dark. We started towards Bangalow, a prominent spot for watching Kanchanjanga. We reached the spot about 20 minutes prior to sunrise. As we shivered in cold, one of us bought 4 ice creams and with a prideful look an his face he said, "Set a thief, to catch a thief" and after processing for a second, we all burst out in laughter. Right beside us, there was a woman gathering dry leaves to light fire so we joined her as it was cold. Our plan to escape from cold using cold (ice-cream) ironically went in vain and we had to drink tea to clear the brain freeze. Eventually, as the fog started to fade, everything became visible. With a tea cup in hand and the Shiliguri bridge at our right, we finally saw the snowy white peak of Kanchanjanga peaking at us from 160 km away. In the early light, the second highest peak of the world glowed like a dazzling crystal. It was difficult to leave behind the hypnotysing beauty but the urge to go home was dominating So by 9am we were on our way home from Panchagarh with a whole new enthusiasm for adventure and a great story to tell.
         `,
-    writer: "Cadet Sadat",
-    cadetNo: 2257
+    writer: "Cadet Sifat",
+    cadetNo: 2305
 },
 {
     title: "Personality Review ",
@@ -125,44 +125,43 @@ Quotes:The earth destroys its fools, but the intelligent destroys the Earth.
 Khalid Bin Walid was a 7th century Arab military commander. He belonged to the Bano-Makhzum, a leading clan of the Quraysh tribe and Mecca's pre-Isla mic aristocracy. He initially led campaigns against Muhammad (SM) on behalf of the Quraysh. He later became a Muslim & spent the remainder of his career serving Muhammad(SM) & the first two Rashid un Caliphs Abu Bakr (Ra) and Umar Faruque(Ra). Khalid played leading command roles in the Ridda War against rébel tribes in Arabia in 632 GE-633C-Eth the initial campaigns in Sasanian Iraq in 633 CE-634 CE and the conquest of Byzantine Syria in 634 CE 638 CE. The historian Carole calls him "The most famous of all Arab Muslim generals, "Being the most successful general of the world in tactics & war strategies, Khald Bin Walid's name is embedded in the golden history of the world. This legendary general is still honoured by the great generals of this era. The legend of this formidable warrior of Islam still burns bright to enlighten us
    
     `,
-    writer: "Cadet Muhi",
-    cadetNo: 2339
+    writer: "Cadet Rahin",
+    cadetNo: 2292
 },
 {
-    title: "Book review : The White Tiger",
+    title: "Book review  ",
     story: `
     
-    Book Name: The White Tiger.
+    Book Name: And The Mountains Echoed.
 
-    Published : 2008
+    Author: Khaled Hosseini 
+    Genre: Slice of life 
+    Type: Novel
+
     
-    Writer: Araving Aditya
     
-    Awards : The Man Booker Prize 2008.
-    
-    
-    In any jungle,what is the-rarest of animals the creature that come along only once in a generation?"The White Tiger," an epistoland novel by Araving Aditya, is compelling and darkly humorous.In this novel, we explore the story of Balram Halwai, a servant. philosopher, entrepreneur, murderer who came from the darkness of India.
-    
-    Balram is the son of a rickshaw-puller from Laxm angarh. For earning money.he come delhi and becomes driver of landlord of their village. He drives for the youngest son. Ashok who has recently come from the USA In Laxmangarh, Ashok's family is connected with coil mining and like every other sectors of India, they are also corrupted. To keep that hidden,they have been bribing influential politicians with a huge amount of money. Seeing that much m oney for the first time in his life, Balram finds an opportunity. To fulfill his cherished dreams.Balram brutaly kills his employer Mr.Ashok and steals the bag of money. He moves to Bangalore, the Wall Street of India and establishes himself as a successful entrepreneur. In the novel, he is writing his philosophy to the premier of China.
-    
-    Balram can be described as a negative personality. Many flaws are found in the character of Ashok Readers may be horrified of the crime of Balram, but they will not be able to hate him due to the situation.
-    
-    This whole book is narrated by Balram and only his thoughs are presented in it. However, the eye-catching part of the book is how it presents the untold secrets of India.
+    "And so you want a story, and I will tell you one. Spanning throughout generations, races and all Known boundaries of human comprehension. Khaled Hosseini again mesmerizes his readers with a hard heart touching novel. “And the mountains echoed" is a magnificent novel that touches the deepest parts of human emotions, gracing different feelings in people's hearts which they didn't even know were there. Compassionate, love loss, regret, familial bond, redemption are brought So beautifully in this book, that life itself feels bland. The story is timed before the 1950's when Afghanistan was still an independent state. The story is of 2 siblings struggle in the harsh lands of "Shadbaz" in Afghanistan. The siblings Abdullah & Pari share a bond so close, real life love, closeness, family all feel unreal. Abdullah has devoted his life caring for his sister, "Pari". As the struggling family sells of their youngest offspring with hope to see a better future, their life takes an interesting turn in the future. Hosseini uncomprehend able ability to tell stories in a composed and minute manner makes readers feel like they themselves are the characters. They feel like Hosseini is a black hole and they are slowly being pulled into his masterful realm of story telling.
     `,
-    writer: "Cadet Rakin",
-    cadetNo: 2245
+    writer: "Cadet Sakib",
+    cadetNo: 2459
 }, {
-    title: "Innocent Bystanders",
+    title: "Shaky Candle Flame",
     story: `
-    In 1964 Catherine Genovese an American woman who was returning late from work, was viciously attacked and sexually assaulted while walking home to her apartment complex from a nearby parking lot .As reported in the “New York Times” two weeks later, for over half an hour 38 respectable, law abiding people heard or saw the man attacking her three separate times . None of the 38 witnesses called the police during the attack , and only one bystander contacted authorities after kitty Genovese died such a case was also seen in the incident of 16 years old khaasen Morris on September 17, 2019 ; when he was stabbed to death in a violent brawl outside a ship mall. The horrific nature of his murder was amplified by the fact that the brawl occurred in broad daylight and was filmed by around 50 teenagers.No one intervened to assist the 16 year old .The ignorant attitude of the witnesses in these cases can be explained buy a social phenomenon known as the bystander effect.
+    Cherry blossoms falling, dancing in the gentle breeze just to cover the grave beside the tree full of love. Slowly the footsteps reached there below the the ree…………..
+12 years ago:
+On a dark night, there was no source of light except the sole candle burning on the table. The candle flames are fighting with the stormy wind coming from the broken window. Thud-Thud-Thud. Astrid looked through the window behind with shock and a feeling of uncertainty in her eyes as a lightning nearby striked. There are only two things giving her company. The diary where she expresses her true self, she continued to write.
 
-    Bystander effect is the inhibiting influence of the presence of others on a person’s willingness to help someone in need. Research has shown that event in an emergency a bystander is less likely to extend help when he or she is in the real or imagined presence of others than when he or she is alone. That is more bytanders lead to less assistance with each additional bystander having a diminishing impact on helping .The seminal research on bystander intervention was conducted by American Social psychologist Bibb latane and John Darley, who found that bystanders do care about those in need of support and help , but often do no offer help. According to them before helping another, bystander goes through a 5 step decision making process. He must notice that something is wrong, define the situation as an emergency, decide whether he or she is personally responsible to act, choose how to help finally implement the chosen helping behavior failing to notice define decide choose and implement leads a bystander to turn a blind eye. Consistent with social comparison theory the effect of others is highlighted when the situation is more unclear .For example , when other people act calmly in the presence of potential emergency because they are unsure of what the event means ,bystanders may not interpret the situation as an emergency and thus act as it nothing happened. This leads to a chain of bystanders concluding that no action is needed .A phenomenon known as plaratic ignorance .Leading to diffusion of responsibilities. Diffusion of responsibilities refer to the decrease of person al responsibility felt by a bystander with the increase of bystanders. As a consequence so does his or her tendency to help.
-    
-    In this respect .When we notice a situation and define it as one requiring assistance .We must decide to take responsibility onto our shoulders. Obviously in the grand scheme of events .We are not quite the "innocent bystanders" we think of ourselves to be, are we?
-    
+4 Sept,1939
+I still remember the day vividly like it was yesterday. I always liked hiking and camping. But all the management and hardworks were vested upon Steve's shoulders. That winter we both went skiing. After a whole day of adventure, we  made our tents in the jungle near the hill. Distant howls came to my ears as I was warming my handing holding towards the campfire Steve made. I got lost in my thoughts. It was on a summer vacation, I was playing in the park where I found a kid crying and getting bullied, I wanted to save him but hesitated because I was just a kid like him. After the bullies left, I sat by him and wiped of his tears asking, "What's your name?" Steve Wayne, he replied with a shaky voice. That was our first conversation. Years passed and now who are here. I got my senses as steve put the woods on the ground which he collected to keep the campfire alive. We bought some packed food which we warmed using the campfire.
+The black flames covered the place as the fire got a bucket-full water on it. I was sitting idle when in he got something to show me.I walked behind him throughout the trail reached at an open place. I saw a tree, it was glowing under the full moon with the snow stacked on top. I was amazed by the beauty and looked around carelessly when his voice broke my thoughts, "I wanted to say this earlier. But....just so you know Astrid Hoffer- son... "I love you and I will till the day I die. Will you complete the missing half of me?" I stood there stunned and a sudden burst of joy brought tears in my eyes. He was on a knee while holding a ring. He took my hand and put the ring in finger of mine. I was so happy that I could die with the joy overflowing inside me.
+Oh Steve! I miss you so much. The war can't separate our bond. Our love is divine. The love between us is growing inside me. Please, come back!
+The teardrops fell on the page of the diary. The shaky candle flames are still fighting with the stormy winds just like Astrid fighting with cancer at her death bed.
+Present Time:
+Cherry blossoms dancing in the gentle breeze to cover the grave. Slowly the footsteps reached there. A man at his forty years age, was holding a rose in his right hand and held another tiny hand in his left one. The kid asked, "Dad, what is mom doing there ?" Steve smiled and picked her up in his arms, "She is waiting for us Ana."
+"One day we have to join her and then we all will be together!"   
     `,
-    writer: "Cadet Nafis",
-    cadetNo: 2326
+    writer: "Cadet Sadat",
+    cadetNo: 2257
 },
 {
     title: "The Spiritual 36 July",
@@ -175,8 +174,8 @@ The date was 18 July 2024. Mugdho, influenced by the flames of protest burning i
 Not only martyr Mugdho but the spirit of thousand martyrs ignited the second independence of Bangladesh on 36th July. The story of 36th July is a symbol of Bangladesh's indomitable spirit, echoing the country's legacy of resilience and collective action in the face of injustice. Twinning with the date 21 February of 1952 the 36th July of 2024 held a high position in the history of our nation.
 
      `,
-    writer: "Cadet Yeasir",
-    cadetNo: 2357
+    writer: "Cadet Mahdi",
+    cadetNo: 2274
 },
 {
     title: "The weight we carry",
@@ -219,8 +218,8 @@ A symphony flawed, yet it is utterly fine.
 We are both the burden and the flight, 
 The darkest shadows, the brightest lights.
    `,
-    writer: "Cadet Ahnaf",
-    cadetNo: 2251
+    writer: "Cadet Monjil",
+    cadetNo: 2417
 },
 {
     title: "Timeless reminiscence",
@@ -247,34 +246,16 @@ When you can not do anything but regret
    For wasting your precious times
 
     `,
-    writer: "Cadet Riad",
-    cadetNo: 2244
+    writer: "Cadet Tahmid",
+    cadetNo: 2277
 },
 {
     title: "Mind over matter",
     story: `
     Once upon a time, there was no ‘Time' is just the measurement of the movement of matter in space. According to physics, everything in the world is composed of matter. We ourselves and everything that exists is nothing but stardust. But there is another belief, a lot more illusional and mystic. This idea promotes the superiority of mind. Even though the scientists refer to it as "a disease of matter, the mind might actually be the foundation of this universe. Unlike modern science, this belief states just one line that every action in this universe occurs to serve human mind. There are experiments proving that the magnetic field, gravity, position of Sun are exact as in even if these had been a little different than human race couldn't have survived. So is it too hard to believe that they are aligned this way for the sole purpose of the existence of humans? Nothing happens anywhere in the Cosmos without any interaction with human mind. When human happiness and hopes for self-fulfillment depend on the outcome, the laws of the universe are bent. The deeper laws come into play. When you reach at your life's great crossroads, the whole universe holds its breath for you to choose. So the path paved for you is nothing but what you ask the universe for. When you are disappointed it is also your asking. But as I said earlier, this belief is nothing but an illusion and mystical thought and you are always free to blame the universe when you feel down.
      `,
-    writer: "Cadet Sindeed",
+    writer: "Cadet Ahmmed",
     cadetNo: 2263
-},
-{
-    title: "Fool's Halo",
-    story: `
-    Center of all insult and hate.
-    I warmly embrace this miserable fate.
-    The wind that makes them sing,
-    A charge to that is what I bring.
-    
-    They question my foolish identity.
-    Indeed,for within this entangled mess,I search.
-    For truth,For reality
-    
-    Going against all this World has shown.
-    A fool's paradise is what I own.
-     `,
-    writer: "Cadet Rafid",
-    cadetNo: 2369
 },
 ];
 
