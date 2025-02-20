@@ -165,39 +165,15 @@ What's left is all we'll ever know..
     cadetNo: 2326
 },
 {
-    title: "Shrinking Bubbles",
+    title: "The Spiritual 36 July",
     story: `
-    The he bubble kept shrinking.And now, there is hardly any space left for more than three people or so I can almost touch the bubble wall if I reach out with my hand.
+    The Spiritual 36 July
 
+The 36th July, a date that had never been seen in the world's calendar but would forever be etched in the hearts of every Bangladeshi. On this day a battle was fought not with weapons, but with the power of unity hope and a unshakable will to rise above adversity
+The spiritual 36th July, it is not only a name, rather truly an event engaged with souls and spirits. Many Souls have been sacrificed for this victory. To really get the spiritual influence of Bengalis over this day, the story of martyrs is a must. Mir Mugdho was one of those martyrs.
+The date was 18 July 2024. Mugdho, influenced by the flames of protest burning inside him like others, participated in the movement. Brave enough, he advanced for helping his fellow comrades with biscuits and water. He shouted amidst the crowd, "Water, water. Does anyone need water ?" Just like the street hawker he went on as a hawker of humanity. He contributed to the protest not by showing violence but by the act of kindness, Innocent yet guilty to the tyrants he was shot on the forehead while crossing a road barricade in Uttara. His friend Naimur Rahman Ashiq was by his side when he got martyred. Later, his friend told in an interview that Mugdho completed graduation in Mathematics from Khulna University. He was studying M.B.A in BUP and preparing for IELTS. Mugdho wanted to go abroad for higher studies. His friend told that Mugdho was a life full of promises cut short. Actually, Mugdho isn't a life cut short but a life that will be prolonged for centuries. He will live in the spirits of Bengalis as an idol.
+Not only martyr Mugdho but the spirit of thousand martyrs ignited the second independence of Bangladesh on 36th July. The story of 36th July is a symbol of Bangladesh's indomitable spirit, echoing the country's legacy of resilience and collective action in the face of injustice. Twinning with the date 21 February of 1952 the 36th July of 2024 held a high position in the history of our nation.
 
-    [1 June,2018]
-    
-    If I had to say so, I considered myself a person with quite a good social circle: family, friends, relatives. It was a good life, until that happened.One day, I don't know when or how a bubble appeared. I could see the bubble's wall around me, Though I couldn't reach it. So, I came to a condusion I was at the centre of the bubble and it moved along with me. It was weird but I decided to keep it a secret for now.
-    
-    
-    [3 June, 2018]
-    
-    The bubble has shrunk a lot this week. It is shrinking faster than before. What is this bubble? Why did it have to appear exactly now? No, maybe I am asking the wrong questions. Maybe the bubble was already there long ago; it was just too far away for me to see.
-    
-    
-    [10 June, 2018]
-    
-    It shrunk more this week. It's now just as bigas my classroom. Within this time period, I found about something about this bubble. My voice can't reach outside the walls, it seems. Also, anyone outside it acts like they forgot about me.1 am getting worried a lot. I talked a lot to my dad.but I don't think he believes it. So my fear keeps rising. What if the shrinking never stops?
-    
-    
-    [25th June, 2018]
-    
-    The space looks so small now that's suffocating.No one stays inside anymore.Unless they sit beside me. Yesterday, we wrote an essay on "My Best Friend".I looked at my best friend. Tom's notebook. He didn't write my name on the essay. It hurts.
-    
-    
-    [1st July-2018]
-    
-    There's a good news. The bubble has stoppeds shrinking at last. But the problem is, it's so small now that no one could get in. It's lonely being invisible. I still have my meals at home and I still go to school. But I don't talk: or rather,no one talks to me. When someone gets too close, faint recognition is seen there, but weak wall goes away quickly.
-    
-    
-    [17 July,2018]
-    
-    The road's relatively less busy today. While crossing the road.A white car came in front of me and white light washes over my face. The thing I remember is. I am lying over beside the road and strangers bend over curiously to look at me. My time's running out but my mind is sm iling because the bubble has burst. They can see me now. I will be gone but at last they'll know that I was here. I'm not lonely to death. I'm not invisible, I'm free.
      `,
     writer: "Cadet Yeasir",
     cadetNo: 2357
