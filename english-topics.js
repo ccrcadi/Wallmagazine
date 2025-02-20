@@ -103,27 +103,27 @@ What's left is all we'll ever know..
 {
     title: "Personality Review : Muhammad Ali",
     story: `
-    Full Name: Muhammad Ali (Previously Cassius Marcellus Clay Jr)
+    Full Name: Khalid Ibn Al-Walid Ibn Al-Mughira Al-Makhzumi
+    Nick Name: Abu Sulayman
 
-    Birth: January 17.1942.
+    Born: Mecca, Arabic
+          Medina or Homs.Rashidun Caliphate Quraysh
     
-    Death: June 3.2016.
+    Died: 642 CE
     
-    Birthplace: Louisville, Kentucky.USA.
-    
-    Known as: •Professional Boxer
-              •Social Activist
-              •Author
-              •Actor
-    
-    Achievement: •1960 Olympic Light gold
-                 •NBAF hevyweight champion-3x Ring heavyweight champion-3x
-                 •WBA championship-4x
-    
-    Special Quatations: •I don't count situps. I only count when it starts hurting because they're the only ones that count.
-                       • It ain't the mountain ahead that wear you down.It's the pebble in the shoe.
-    
-    Born in 1942 in an African-American family, Cassius Marcellus Clay Jr. widely known as Muhammad Ali, nicknamed 'The Greatest, is considered the greatest boxer of all time. Clay was the first boxer in the world heavyweight championship on three separate occasions and successfully defend this title 19 times. Ali started boxing at the age of 12 and won his first olympic gold just 6 years after defeating the world hevyweight champion Sonny Liston. Ali announced himself being Muslim after being influenced by a newspaper, 'The Islamic Nation! Before his official name changed to Muhammed Ali, he was named Cassius "X? Ali's con version to Islam was amoung the most defining moments of his remarkable legacy. This desicion enraged his critics and in 1967 when he was about to be inducted in the US military he refused.citing his religion forbade him from serving Muhammad Ali was also a renowned social acti vist He was one of the first notable people in the US to support Palestine. Ali also advocated for racial justice from his experience in racism and white supremacy in the US. The heavyweight ch ampion was diagnosed with Dyslexia at a very young age,so, he knew the pain of not doing well in academic results. Ali and his wife together worked to improve the literacy of African-Americans and Dyslexic children with own money.
+    Allegiance :Quraysh (625-627/629) 
+                Muhammad (627/629-632) 
+                Rashidon Caliphate (632-638)
+Years of Service: 629-638
+Title : Sayf Allah (Sword of Allah)
+Commands :Field Commander in Najd and the Yaman Supreme Commander of Muslim armies in Syria
+          Field Commander in norther Syria Military Governer of Qinnaspin
+          The earth destroys its fools, but the intelligent destroys the
+
+Quotes:The earth destroys its fools, but the intelligent destroys the Earth.
+       When I am in battle field, I love it more than my wedding night.  
+Khalid Bin Walid was a 7th century Arab military commander. He belonged to the Bano-Makhzum, a leading clan of the Quraysh tribe and Mecca's pre-Isla mic aristocracy. He initially led campaigns against Muhammad (SM) on behalf of the Quraysh. He later became a Muslim & spent the remainder of his career serving Muhammad(SM) & the first two Rashid un Caliphs Abu Bakr (Ra) and Umar Faruque(Ra). Khalid played leading command roles in the Ridda War against rébel tribes in Arabia in 632 GE-633C-Eth the initial campaigns in Sasanian Iraq in 633 CE-634 CE and the conquest of Byzantine Syria in 634 CE 638 CE. The historian Carole calls him "The most famous of all Arab Muslim generals, "Being the most successful general of the world in tactics & war strategies, Khald Bin Walid's name is embedded in the golden history of the world. This legendary general is still honoured by the great generals of this era. The legend of this formidable warrior of Islam still burns bright to enlighten us
+   
     `,
     writer: "Cadet Muhi",
     cadetNo: 2339
